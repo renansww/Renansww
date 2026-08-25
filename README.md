@@ -125,5 +125,8 @@ Me chamo Renan andrade, tenho 18 anos e sou natural de João Pessoa-PB. Atualmen
 
 <br/>
 <br/>
+---
+<br/>
+<br/>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=vision-friendly-dark)](https://wakatime.com/@alan)
