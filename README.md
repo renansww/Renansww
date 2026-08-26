@@ -131,4 +131,13 @@ Me chamo Renan andrade, tenho 18 anos e sou natural de João Pessoa-PB. Atualmen
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Python           2 hrs 12 mins         ███████████▒░░░░░░░░░░░░░   44.80 %
+Java             1 hr 56 mins          ██████████░░░░░░░░░░░░░░░   39.61 %
+HTML             34 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+CSS              6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+GitIgnore file   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+```
+
 <!--END_SECTION:waka-->
