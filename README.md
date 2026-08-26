@@ -129,7 +129,8 @@ Me chamo Renan andrade, tenho 18 anos e sou natural de João Pessoa-PB. Atualmen
 <br/>
 <br/>
 
-TEMPO DE ESTUDO DOS ULTIMOS 7 DIAS(diariamente atualizado)
+TEMPO DE ESTUDO DOS ULTIMOS 7 DIAS
+diariamente atualizado via WakaTime!
 <!--START_SECTION:waka-->
 
 ```txt
