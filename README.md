@@ -135,11 +135,11 @@ diariamente atualizado via WakaTime!
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs 12 mins         ███████████▒░░░░░░░░░░░░░   44.80 %
-Java             1 hr 56 mins          ██████████░░░░░░░░░░░░░░░   39.61 %
-HTML             34 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-CSS              6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-GitIgnore file   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python           2 hrs 57 mins         ███████████▓░░░░░░░░░░░░░   46.40 %
+Java             1 hr 56 mins          ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+HTML             1 hr 16 mins          █████░░░░░░░░░░░░░░░░░░░░   19.87 %
+CSS              6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+GitIgnore file   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
