@@ -2,7 +2,7 @@
 
 **`-- Portifólio GitHub --`**
 
-Me chamo Renan andrade, tenho 18 anos e sou natural de João Pessoa-PB. Atualmente, estou cursando Ciências da Computação na Uniesp. Gosto muito de tecnologia tecnologia e compartilho minhas atividades e projetos pessoais neste GitHub
+Me chamo Renan andrade, tenho 18 anos e sou natural de João Pessoa-PB. Atualmente, estou cursando Ciências da Computação na Uniesp. Gosto muito de tecnologia e compartilho minhas atividades e projetos pessoais neste GitHub
 
 
 
@@ -129,7 +129,7 @@ Me chamo Renan andrade, tenho 18 anos e sou natural de João Pessoa-PB. Atualmen
 <br/>
 <br/>
 
-TEMPO DE ESTUDO DOS ULTIMOS 7 DIAS
+TEMPO DE CÓDIGO DOS ULTIMOS 7 DIAS
 <br/>
 diariamente atualizado via WakaTime!
 <!--START_SECTION:waka-->
