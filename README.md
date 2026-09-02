@@ -5,12 +5,12 @@
 Tenho 18 anos, sou de João Pessoa - PB e atualmente curso **Ciência da Computação na UNIESP**. Uso este espaço no GitHub para documentar minha jornada de aprendizado, compartilhar meu código e evoluir como desenvolvedor.
 
 ### O que estou focando agora
-Atualmente no **2º período**, estou mergulhando de cabeça nos fundamentos e no desenvolvimento Back-end. Minha rotina de estudos e projetos envolve:
-- **Lógica e Fundamentos:** Estrutura de Dados e Algoritmos.
-- **Ecossistema Java:** Desenvolvimento com Java e Spring Boot.
-- **Python:** Aprofundando em Programação Orientada a Objetos (POO).
-- **Persistência:** Modelagem e manipulação de Banco de Dados.
-- **Prática:** Desenvolvendo projetos pessoais do zero para consolidar a teoria.
+Atualmente no **2º período**, estou mergulhando nos fundamentos e no desenvolvimento Back-end. Minha rotina de estudos e projetos envolve:
+-  Estrutura de Dados e Algoritmos.
+-  Desenvolvimento com Java e Spring Boot.
+-  Aprofundando em Programação Orientada a Objetos (POO).
+-  Modelagem e manipulação de Banco de Dados.
+-  Desenvolvendo projetos pessoais do zero para consolidar a teoria.
 
 <br/>
 
@@ -46,3 +46,4 @@ HTML             2 hrs 28 mins         █████▓░░░░░░░�
 Java             1 hr 56 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
 Markdown         1 hr 40 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
 CSS              32 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+<!--END_SECTION:waka-->
