@@ -1,6 +1,6 @@
 # Olá, eu sou o Renan Andrade!
 
-**`-- Desenvolvedor em formação | Apaixonado por Tecnologia --`**
+**`-- Desenvolvedor em formação --`**
 
 Tenho 18 anos, sou de João Pessoa - PB e atualmente curso **Ciência da Computação na UNIESP**. Uso este espaço no GitHub para documentar minha jornada de aprendizado, compartilhar meu código e evoluir como desenvolvedor.
 
@@ -46,4 +46,4 @@ HTML             2 hrs 28 mins         █████▓░░░░░░░�
 Java             1 hr 56 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
 Markdown         1 hr 40 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
 CSS              32 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-<!--END_SECTION:waka-->
+
